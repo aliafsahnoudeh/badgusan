@@ -1,0 +1,11 @@
+.space-box {
+    padding: 0 !important;
+}
+
+.heading-left-style-1 {
+    float: left;
+}
+.wrapper-right-to-left{
+    direction: rtl;
+    text-align: justify;
+}

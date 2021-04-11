@@ -1,0 +1,9 @@
+.post-box .frame {
+    width: 300px !important;
+    height: 300px !important;
+    margin-left: 25%;
+}
+
+.read-more-right-to-left {
+    float: right;
+}

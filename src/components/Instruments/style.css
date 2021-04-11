@@ -1,0 +1,30 @@
+.best-selling .text-box p {
+    text-align: justify;
+}
+
+.best-selling h2 {
+    text-align: left !important;
+}
+
+.best-selling img {
+    height: 262px;
+    width:390px;
+}
+
+.instrument {
+    width: 262px;
+    height: 370px !important;
+}
+.instruments-right-to-left{
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.instruments-right-to-left h2{
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+.instruments-column-right-to-left {
+    float: right !important;
+}

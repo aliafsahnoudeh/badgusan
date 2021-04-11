@@ -1,0 +1,16 @@
+.logo-3 img {
+    width: 200px;
+}
+
+.direction_to_right {
+  direction: rtl !important;
+  text-align: right;
+}
+
+.select-language {
+  float: right;
+  margin-left: 50px;
+}
+
+
+

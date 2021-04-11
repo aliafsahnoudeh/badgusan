@@ -1,0 +1,2320 @@
+/*===========================================================================*/
+							/*1366px CSS*/
+/*===========================================================================*/
+@media (max-width: 1366px) {
+.banner-style-1 .caption .inner-col span.banner-logo {
+	margin: 0 0 20px 0;
+}
+.banner-style-1 .caption .inner-col strong.title {
+	padding: 0 0 20px 0;
+}
+.banner-social {
+	margin: 18px 0 0 0;
+}
+.banner-style-1 .caption {
+	height: auto;
+}
+.welcome-style-1 {
+	padding: 50px 0;
+}
+.latest-book-section {
+	padding: 50px 0;
+}
+.latest-book-section .book-box {
+	width: 455px;
+}
+.latest-book-section .book-box .text-col {
+	width: 210px;
+}
+.latest-book-section .img-box {
+	width: 200px;
+}
+.blog-style-1 {
+	padding: 40px 0 0 0;
+}
+.banner-style-2 .caption {
+	top: 200px;
+}
+.welcome-style-2 .round-thumb {
+	margin: 0;
+}
+.latest-book-style-2 .book-box {
+	width: 100%;
+}
+.latest-book-style-2 .img-box {
+	margin: 0;
+	float: left;
+}
+.latest-book-style-2 h3 {
+	margin: 0 0 20px 0;
+}
+.latest-book-style-2 h2 {
+	margin: 0;
+}
+.latest-book-style-2 .book-box .text-col {
+	padding: 50px 0 30px 0;
+}
+.latest-book-style-2 .owl-theme .owl-controls {
+	margin: 0;
+}
+.latest-book-style-2 {
+	padding: 50px 0;
+}
+.video-section .text-box {
+	width: 100%;
+}
+.testimonial-style-2 {
+	padding: 60px 0;
+}
+.blog-style-2 {
+	padding: 50px 0;
+}
+#album-book-slider {
+	padding: 0 20px;
+}
+.video-style-2 .holder {
+	padding: 120px 0;
+}
+.video-style-2 .holder strong.title {
+	padding: 0 0 60px 0;
+}
+.banner-style-4 .caption {
+	top: 250px;
+}
+body .home-4 .latest-book-style-4 h2 {
+	margin: 0;
+}
+.timetable-section {
+	padding: 0 0 40px 0;
+}
+.newsletter-bg {
+	background-size: cover;
+}
+#inner-banner{
+	margin:0;
+}
+.video-section-2{
+	margin:0;
+}
+.best-selling{
+	padding:80px 0 60px 0;
+}
+.blog-section{
+	padding:40px 0 0 0;
+}
+.text-widget img{
+	width:100%;
+}
+.pagination-box{
+	margin-bottom:50px;
+}
+.classes-detail{
+	padding:40px 0 0 0;
+}
+body .home-4 .classes-detail h2{
+	margin:0 0 30px 0;
+}
+.detail-gallery{
+	margin-bottom:40px;
+}
+.yoga-classes{
+	padding:40px 0;
+}
+body .home-4 .yoga-classes h2{
+	margin:0 0 20px 0;
+}
+.classes-call-action-section{
+	margin-bottom:40px;
+}
+.error-page{
+	padding:80px 0;
+}
+.faq-section{
+	padding:60px 0;
+}
+.gallery-section{
+	padding:50px 0;
+	margin:0;
+}
+.shop-section{
+	padding:50px 0 20px 0;
+}
+.pagination-style-2{
+	margin-bottom:40px;
+}
+#inner-banner.inner-bg-3{
+	background-size:cover;
+}
+.single-author .welcome-style-1{
+	padding-bottom:0;
+}
+}
+
+
+
+/*===========================================================================*/
+							/*1024px CSS*/
+/*===========================================================================*/
+@media (min-width: 1024px) {
+.header-ul-right-to-left {
+  transform: rotate(180deg);
+}
+
+.header-ul-right-to-left li {
+  transform: rotate(-180deg);
+}
+.banner-style-2 .caption {
+	top: 200px;
+}
+.banner-style-4 .caption {
+	top: 230px;
+}
+.timetable-section {
+	padding: 0 0 40px 0;
+}
+.newsletter-bg {
+	background-size: cover;
+}
+.welcome-style-2 .round-thumb {
+	margin: 0;
+}
+.latest-book-style-2 .book-box {
+	width: 100%;
+}
+.latest-book-style-2 .img-box {
+	margin: 0;
+	float: left;
+}
+.latest-book-style-2 h3 {
+	margin: 0 0 20px 0;
+}
+.latest-book-style-2 h2 {
+	margin: 0;
+}
+.latest-book-style-2 .book-box .text-col {
+	padding: 50px 0 30px 0;
+}
+.latest-book-style-2 .owl-theme .owl-controls {
+	margin: 0;
+}
+.latest-book-style-2 {
+	padding: 50px 0;
+}
+.video-section .text-box {
+	width: 100%;
+}
+.testimonial-style-2 {
+	padding: 60px 0;
+}
+.blog-style-2 {
+	padding: 50px 0;
+}
+#inner-banner{
+	margin:0;
+}
+.video-section-2{
+	margin:0;
+}
+.best-selling{
+	padding:80px 0 60px 0;
+}
+.blog-section{
+	padding:40px 0 0 0;
+}
+.text-widget img{
+	width:100%;
+}
+.pagination-box{
+	margin-bottom:50px;
+}
+.classes-detail{
+	padding:40px 0 0 0;
+}
+body .home-4 .classes-detail h2{
+	margin:0 0 30px 0;
+}
+.detail-gallery{
+	margin-bottom:40px;
+}
+.yoga-classes{
+	padding:40px 0;
+}
+body .home-4 .yoga-classes h2{
+	margin:0 0 20px 0;
+}
+.classes-call-action-section{
+	margin-bottom:40px;
+}
+.error-page{
+	padding:80px 0;
+}
+.gallery-section{
+	padding:50px 0;
+	margin:0;
+}
+.shop-section{
+	padding:50px 0 20px 0;
+}
+.pagination-style-2{
+	margin-bottom:40px;
+}
+
+}
+
+
+
+/*===========================================================================*/
+							/*767px CSS*/
+/*===========================================================================*/
+@media (max-width: 767px) {
+
+.header-style-1 .navbar {
+	width: 100%;
+}
+.header-style-1 .right-col {
+	width: 100%;
+}
+.navbar-inverse .navbar-toggle {
+	margin: 0;
+}
+.shop-box {
+	float: left;
+}
+.shop-box .dropdown-menu {
+	left: 0;
+	right: inherit;
+}
+.search-inner {
+	width: 100%;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.header-style-1 {
+	height: 145px;
+}
+.navbar-collapse {
+	border: 0;
+}
+.navbar-collapse.in {
+	overflow: inherit;
+}
+.header-style-1 #nav li ul {
+	top: 36px;
+}
+.banner-style-1 .caption .inner-col span.banner-logo {
+	display: none;
+}
+.banner-style-1 .caption .inner-col {
+	width: 100%;
+}
+.banner-style-1 .caption {
+	top: 150px;
+}
+.banner-style-1 .caption .inner-col::before {
+	display: none;
+}
+.banner-style-1 .caption .inner-col h1 {
+	font-size: 52px;
+	line-height: 52px;
+}
+.banner-style-1 .caption .inner-col strong.title {
+	font-size: 26px;
+	padding: 0 0 20px 0;
+}
+.welcome-style-1 .text-box {
+	padding: 30px 0 40px 0;
+}
+.welcome-style-1 .thumb {
+	margin-bottom: 30px;
+}
+.latest-book-section {
+	padding: 40px 0;
+}
+.latest-book-section .heading-left-style-1 {
+	margin: 0;
+}
+.latest-book-section .book-box {
+	width: 100%;
+}
+.blog-style-1-box .text-box {
+	padding: 30px 0 0 0;
+}
+.blog-style-1-box {
+	margin: 0;
+}
+.blog-style-1-box .thumb {
+	margin: 30px 0 0 0;
+}
+.blog-style-1 .heading-left-style-1 {
+	margin: 0;
+}
+.call-action-box {
+	width: 25%;
+}
+.call-action-box span {
+	font-size: 16px;
+}
+.gallery-style-1 {
+	padding-bottom: 30px;
+}
+.home-blog-style-1 .heading-left-style-1 {
+	margin: 0;
+}
+.home-blog-style-1 .text-box {
+	padding-bottom: 30px;
+}
+.home-blog-style-1 {
+	padding: 0;
+}
+.footer-menu, .footer-box address, .instagram {
+	margin: 30px 0 0 0;
+}
+.footer-style-1 {
+	padding: 40px 0;
+}
+.footer-menu-right-to-left {
+	padding-left: 180px;
+  }
+.banner-style-2 .caption {
+	top: 140px;
+}
+.banner-style-2 span.text-img {
+	display: none;
+}
+#banner .banner-style-2 h1 {
+	font-size: 48px;
+	line-height: 48px;
+	margin: 0 0 15px 0;
+}
+#banner .banner-style-2 strong.title {
+	padding: 0 0 20px 0;
+}
+.welcome-style-2 .round-thumb {
+	margin-bottom: 30px;
+}
+.welcome-style-2 {
+	padding: 40px 0 20px 0;
+}
+.benefits-section .text-box .box-1 .text-col {
+	width: 100%;
+}
+.benefits-section .text-box {
+	padding: 30px 0 0 0;
+}
+.latest-book-style-2 {
+	padding: 40px 0;
+}
+.latest-book-style-2 .book-box {
+	width: 100%;
+}
+.video-section .container-fluid {
+	padding: 0 15px;
+}
+.video-section .text-box {
+	width: 100%;
+	padding: 0 0 30px 0;
+}
+.video-box {
+	height: 300px;
+	background-size: cover;
+}
+.video-box .modal-dialog {
+	margin: 0;
+	width: 100%;
+	padding: 0 30px;
+}
+.testimonial-style-2 {
+	padding: 40px 0;
+}
+.testimonial-style-2 .holder {
+	padding: 0 20px;
+}
+.testimonial-style-2 .text-box .fa {
+	padding: 0 0 20px 0;
+}
+.newsletter-style-1 {
+	background-size: cover;
+}
+.blog-style-2 {
+	padding: 40px 0;
+}
+.blog-style-2 .post-box {
+	width: 46%;
+	margin: 0 10px 20px 10px;
+}
+.footer-style-2 .footer-box {
+	margin: 20px 0 0 0;
+}
+.footer-style-2 {
+	padding: 20px 0 0 0;
+}
+.header-style-3 .navbar {
+	width: 100%;
+}
+.navbar-inverse .navbar-toggle {
+	width: 100%;
+	margin: 25px 0 0 0;
+}
+.navbar-toggle .icon-bar {
+	margin: 4px auto 0;
+}
+.header-style-3 #nav li {
+	float: none;
+	display: block;
+	overflow: hidden;
+}
+/* .header-style-3 #nav li a {
+	text-align: left;
+}	 */
+
+.header-style-3 #nav li.active a::before {
+	display: none;
+}
+.header-style-3 #nav li ul {
+	position: static;
+	width: 100%;
+}
+.header-style-3 #nav {
+	padding: 20px 0 0 0;
+	margin: 0;
+	background: rgba(0,0,0,0.6);
+}
+.welcome-style-3 {
+	padding: 20px 0 40px 0;
+}
+#album-book-slider {
+	padding: 0 20px;
+}
+.latest-book-style-3 {
+	padding: 0 0 40px 0;
+}
+.video-style-2 .holder {
+	padding: 30px 0;
+}
+.video-style-2 .holder strong.title {
+	padding: 0 0 40px 0;
+}
+.event-style-1 {
+	padding: 40px 0 0 0;
+}
+.event-style-1 .box {
+	margin: 0 0 30px 0;
+}
+.ticket li {
+	padding: 20px 0;
+}
+.blog-style-3 {
+	padding: 40px 0;
+}
+.blog-style-3 .text-holder {
+	margin-bottom: 30px;
+}
+.blog-style-3 .post-box {
+	margin: 0 0 40px 0;
+}
+.newsletter-style-3 {
+	padding: 0;
+}
+.newsletter-style-3 form {
+	padding: 20px 50px;
+}
+.footer-style-3 {
+	padding: 40px 0;
+	background: url(/img/footer-bg.024f3778.jpg);
+}
+
+.footer-style-3 .footer-box {
+	margin-bottom: 20px;
+}
+.header-style-4 .search-holder {
+	display: none;
+}
+.header-style-4 .menu-row {
+	padding: 20px 0;
+}
+.banner-style-4 .caption {
+	display: none;
+}
+body .home-4 .latest-book-style-2 h2 {
+	margin: 0;
+}
+.latest-book-style-2 .owl-carousel .owl-stage-outer {
+	padding: 40px 0;
+}
+.timetable-section {
+	padding: 40px 0;
+}
+.timetable-section ul li strong.time {
+	width: 142px;
+}
+.timetable-box .head strong.day {
+	font-size: 16px;
+	line-height: 20px;
+}
+.header-style-1{
+	height:auto;
+}
+.header-style-1 a.logo-1{
+	width:100%;
+	text-align:center;
+}
+#inner-banner.inner-bg-2{
+	background-size:cover;
+}
+body #wrapper #inner-banner{
+	padding:230px 0 60px 0;
+	margin:0;
+}
+.about-section .welcome-style-1{
+	padding-bottom:0;
+}
+.video-section-2{
+	margin:0;
+}
+.video-section-2 a.btn-play{
+	clear:both;
+}
+.video-section-2 strong.logo{
+	margin:0 0 20px 0;
+}
+.best-selling .frame{
+	width:33%;
+}
+.best-selling{
+	padding:40px 0 20px 0;
+}
+.home-blog-style-1 .post-box{
+	width:30%;
+	margin:0 10px;
+}
+.pagination-box{
+	margin-bottom:40px;
+}
+.classes-detail{
+	padding:40px 0 0 0;
+}
+body .home-4 .classes-detail h2{
+	margin:0 0 10px 0;
+}
+.yoga-classes .heading-center{
+	margin:0 0 30px 0;
+}
+.classes-detail .frame .caption{
+	top:30px;
+}
+.yoga-classes{
+	padding:40px 0;
+}
+body .home-4 .yoga-classes h2{
+	margin:0 0 20px 0;
+}
+.classes-call-action-section .space-box{
+	padding:0;
+}
+.comming-soon-1{
+	background-size:cover;
+	height:auto;
+	padding:90px 0;
+}
+.comming-soon-1 strong.title{
+	padding:0 0 30px 0;
+}
+.countdown-box{
+	margin:0 0 30px 0;
+}
+.comming-soon-2 .container-fluid{
+	padding:0 15px;
+}
+.comming-soon-2 .holder{
+	width:100%;
+}
+.comming-soon-2 strong.logo{
+	margin:0 0 20px 0;
+}
+.comming-soon-2 h1{
+	font-size:34px;
+}
+.comming-soon-2 strong.title{
+	line-height:22px;
+}
+.comming-soon-2{
+	height:auto;
+	background-size:cover;
+	padding:50px 0;
+}
+.comming-soon-2 form{
+	margin:0 0 40px 0;
+}
+.contact-form form .btn-row{
+	margin-bottom:20px;
+}
+.error-page{
+	padding:40px 0;
+}
+.faq-section{
+	padding:50px 0;
+}
+.faq-section .frame{
+	margin:30px 0 0 0;
+}
+.gallery-section{
+	padding:50px 15px 20px 15px;
+	margin:0;
+}
+.shop-section .frame img{
+	width:100%;
+}
+.shop-detail{
+	padding:50px 0;
+}
+.gallery-section .frame img{
+	width:100%;
+}
+.musician-welcome .text-box{
+	margin-top:40px;
+}
+.music-experience .left-box, .music-experience .right-box{
+	width:325px;
+}
+.music-experience .left-box:before, .music-experience .left-box:after, .music-experience .right-box:after, .music-experience .right-box:before{
+	display:none;
+}
+.music-experience ul{
+	margin-bottom:40px;
+}
+.what-we-do-section{
+	padding:60px 0;
+}
+.client-section h2{
+	margin:0 0 20px 0;
+}
+.client-section .text-box{
+	margin-bottom:40px;
+}
+.progress-box-2{
+	margin:0 30px;
+}
+#inner-banner.inner-bg-4 h1{
+	font-size:40px;
+}
+.counters-section .box{
+	margin-bottom:30px;
+}
+.counters-section{
+	padding-bottom:20px;
+}
+.partners-section ul li{
+	width:160px;
+	margin:0 10px;
+}
+.partners-section ul li img{
+	width:100%;
+}
+.partners-section ul li:first-child{
+	margin:inherit;
+}
+.partners-section{
+	margin:40px 0 0 0;
+}
+#inner-banner.inner-bg-3{
+	background-size:cover;
+}
+.single-author .welcome-style-1{
+	padding:0;
+	margin:0;
+}
+.services-section{
+	padding:40px 0;
+}
+.features-section .box{
+	margin:0 0 20px 0;
+}
+.features-section{
+	padding:40px 0 20px 0;
+}
+.why-me-section{
+	padding:40px 0 0 0;
+}
+.why-me-section .text-box a.btn-style-1{
+	margin-bottom:20px;
+}
+#inner-banner h1 {
+    float: none !important;
+}
+}
+
+
+/*===========================================================================*/
+							/*480px CSS*/
+/*===========================================================================*/
+@media (min-width: 320px) and (max-width: 480px) {
+.header-style-2 {
+	position: static;
+	background: rgba(0,0,0,0.9);
+	padding-bottom: 30px;
+}
+.welcome-style-3 p{
+	text-align:center;
+}
+.welcome-style-3 .text-box{
+	text-align:center;
+}
+.home-3 .welcome-style-3 a.btn-style-1{
+	float:none;
+	display:inline-block;
+}
+.header-style-3 #nav li a{
+	padding:0 10px;
+}
+.services-section{
+	padding:0 0 40px 0;
+}
+.single-author .welcome-style-1{
+	padding:0;
+	margin:0;
+}
+.services-section .text-box .space-box{
+	padding:0;
+}
+.why-me-section{
+	padding:40px 0 0 0;
+}
+.accordion_cp{
+	padding:20px 0;
+}
+.quote-box a.btn-style-1{
+	float:left !important;
+	margin:0 10px 10px 0;
+}
+.features-section .box{
+	margin:0 0 20px 0;
+}
+.features-section{
+	padding:40px 0 20px 0;
+}
+.workshop-section{
+	display:none;
+}
+.counters-section .box{
+	margin-bottom:30px;
+}
+.counters-section{
+	padding:0 0 20px 0;
+}
+.call-action .text-box{
+	width:100%;
+}
+.call-action{
+	background-size:cover;
+	padding:40px 0;
+}
+.call-action .text-box strong.title{
+	font-size:32px;
+	line-height:38px;
+}
+.partners-section{
+	margin:40px 0 0 0;
+}
+.partners-section ul li{
+	margin:0 0 20px 0;
+	width:100%;
+}
+.partners-section ul li:first-child{
+	margin:0 0 20px 0;
+}
+.music-experience ul:before, .music-experience ul:after{
+	display:none;
+}
+.music-experience .left-box{
+	margin:20px 0 0 0;
+	width:100%;
+}
+.music-experience .right-box{
+	margin:20px 0 0 0;
+	width:100%;
+}
+.music-experience ul{
+	margin:0 0 40px 0;
+}
+.what-we-do-section{
+	padding:40px 0;
+}
+.client-section h2{
+	margin:0 0 20px 0;
+}
+.client-section .text-box{
+	margin-bottom:40px;
+}
+.progress-box-2{
+	margin-bottom:20px;
+	width:100%;
+	text-align:center;
+}
+.client-section .holder{
+	padding:0;
+}
+#inner-banner.inner-bg-8 h1{
+	font-size:37px;
+	line-height:50px;
+}
+.sidebar-box-2 .ui-rangeslider .ui-rangeslider-sliders{
+	margin:158px 0 0 0;
+}
+.sidebar-filter{
+	height:290px;
+}
+.pagination-style-2 .pagination li{
+	padding:0 16px;
+}
+.pagination-style-2{
+	margin-bottom:60px;
+}
+.sidebar-box-2 input.ui-slider-input{
+	width:100%;
+	margin-bottom:10px;
+}
+.ui-rangeslider .ui-slider-input.ui-rangeslider-last{
+	float:left !important;
+}
+.gallery-section{
+	padding:50px 15px 20px 15px;
+	margin:0;
+}
+.shop-detail{
+	padding:50px 0;
+}
+.gallery-section .frame img{
+	width:100%;
+}
+.error-page{
+	padding:40px 0;
+}
+.faq-section{
+	padding:50px 0;
+}
+.faq-section .frame{
+	margin:30px 0 0 0;
+}
+.error-page img{
+	width:100%;
+	margin:0 0 20px 0;
+}
+.contact-form form .btn-row{
+	margin-bottom:40px;
+}
+.comming-soon-2 .container-fluid{
+	padding:0 15px;
+}
+.comming-soon-2 .holder{
+	width:100%;
+}
+.comming-soon-2 strong.logo{
+	margin:0 0 20px 0;
+}
+.comming-soon-2 h1{
+	font-size:34px;
+}
+.comming-soon-2 strong.title{
+	line-height:22px;
+}
+.comming-soon-2{
+	height:auto;
+	background-size:cover;
+	padding:50px 0;
+}
+.comming-soon-2 form{
+	margin:0 0 40px 0;
+}
+.comming-soon-1{
+	background-size:cover;
+	height:auto;
+	padding:50px 0;
+}
+.comming-soon-1 h1{
+	font-size:50px;
+	line-height:52px;
+}
+.comming-soon-1 strong.title{
+	padding:0 0 30px 0;
+}
+.countdown-box{
+	margin:0 0 30px 0;
+}
+.social-row ul li{
+	padding:0 11px;
+}
+.yoga-classes{
+	margin:40px 0;
+	padding:0;
+}
+.yoga-classes .btn-row{
+	margin:0;
+}
+body .home-4 .classes-call-action-section h2{
+	font-size:44px;
+	line-height:50px;
+}
+.classes-call-action-section .space-box{
+	padding:0;
+}
+.classes-call-action-section{
+	background-size:cover;
+}
+.yoga-classes .box .text-box{
+	padding:20px 15px;
+}
+.classes-detail{
+	padding:40px 0 0 0;
+}
+.yoga-classes .heading-center{
+	margin-bottom:30px;
+}
+.classes-detail .frame .caption{
+	display:none;
+}
+.classes-detail .text-box h3{
+	font-size:23px;
+	line-height:30px;
+}
+.classes-detail .right-box{
+	margin:30px 0 0 0;
+}
+.classes-detail .right-box ul li a{
+	font-size:14px;
+}
+.detail-gallery{
+	margin:30px 0 0 0;
+}
+.blog-section .post-box .frame{
+	margin-bottom:20px;
+}
+.blog-section .post-box .text-box h3{
+	font-size:22px;
+	line-height:26px;
+}
+.pagination-box{
+	margin-bottom:40px;
+}
+body #wrapper #inner-banner{
+	padding:60px 0;
+	margin:0;
+}
+.blog-section{
+	padding:40px 0 0 0;
+}
+.text-widget img{
+	width:100%;
+}
+.sidebar-box{
+	margin-bottom:30px;
+}
+.tag-widget a{
+	padding-bottom:10px;
+}
+.blog-section .post-box blockquote{
+	padding:30px 15px;
+}
+.home-blog-style-1 .post-box{
+	width:100%;
+	margin:0;
+}
+.best-selling .frame{
+	width:100%;
+}
+#inner-banner{
+	background-size:cover;
+	margin:0 0 30px 0;
+}
+.about-section .welcome-style-1{
+	margin:0;
+	padding:0;
+}
+.about-section .video-section-2{
+	margin:0;
+	padding:50px 0;
+}
+.video-section-2 strong.logo{
+	display:none;
+}
+.best-selling{
+	padding:40px 0;
+}
+.about-section .call-action-style-1{
+	margin:0 0 40px 0;
+}
+.video-section-2 h1{
+	font-size:35px;
+	line-height:42px;
+}
+#inner-banner.inner-bg-2{
+	padding:50px 0;
+	margin:0 0 40px 0;
+}
+#inner-banner h1{
+	font-size:40px;
+	line-height:46px;
+	margin:0 0 20px 0;
+}
+strong.inner-logo{
+	margin:0 0 15px 0;
+}
+.header-topbar .left-box {
+	width: 100%;
+	text-align: center;
+}
+.header-topbar .left-box strong.title {
+	float: none;
+	display: inline-block;
+	padding: 10px 0;
+}
+.header-topbar .right-box {
+	text-align: center;
+	width: 100%;
+}
+.header-style-4 #nav li {
+	float: none;
+	display: block;
+	padding: 15px 0;
+}
+.header-style-4 #nav li ul {
+	width: 100%;
+	position: static;
+}
+.header-style-4 #nav {
+	padding: 0 0 10px 0;
+}
+.header-style-4 .navbar-inverse .navbar-toggle {
+	margin-bottom: 20px;
+}
+.banner-style-4 .caption {
+	top: 15px;
+}
+.banner-style-4 .caption .holder {
+	width: 100%;
+}
+.banner-style-4 .caption strong.title {
+	font-size: 22px;
+	line-height: 22px;
+}
+.banner-style-4 .caption span {
+	font-size: 12px;
+	line-height: 16px;
+	padding: 0 0 10px 0;
+}
+.banner-style-4 .caption a.btn-style-1 {
+	font-size: 16px;
+	line-height: 16px;
+	padding: 10px 20px;
+}
+.banner-style-4 .caption h1 {
+	font-size: 28px;
+}
+.yoga-section {
+	padding: 40px 0;
+}
+.yoga-section .heading-center {
+	padding: 0;
+	margin: 0 0 30px 0;
+}
+body .home-4 .yoga-section h2 {
+	font-size: 28px;
+	line-height: 30px;
+}
+.heading-center {
+	padding: 0 15px;
+}
+body .home-4 .heading-center h2 {
+	margin: 0 0 20px 0;
+}
+.latest-book-style-4 .owl-theme .owl-controls {
+	margin: 20px 0 0 0;
+}
+.timetable-section {
+	padding: 40px 0;
+}
+.timetable-box .head strong.time, .timetable-box .head strong.day {
+	padding: 5px 0;
+}
+.testimonial-style-3 .holder {
+	padding: 0;
+}
+body .home-4 .heading-center h2 {
+	font-size: 24px;
+	line-height: 28px;
+}
+.footer-style-4 .address-box {
+	width: 100%;
+}
+.footer-style-4 {
+	padding: 40px 0;
+}
+.footer-style-4 .address-box .footer-social {
+	margin: 20px 0;
+}
+.testimonial-style-3 .owl-next {
+	right: 0;
+}
+.testimonial-style-3 .owl-prev {
+	left: 0;
+}
+.header-topbar .right-box .top-social {
+	width: 100%;
+	margin: 10px 0 0 0;
+}
+.header-style-4 {
+	position: static;
+}
+strong.logo {
+	display: block;
+	text-align: center;
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+.header-style-4 .right-col {
+	width: 100%;
+}
+.header-style-4 .navbar {
+	width: 100%;
+}
+.header-topbar .right-box .top-social ul {
+	display: block;
+	text-align: center;
+}
+.header-topbar .right-box .top-social ul li {
+	float: none;
+	display: inline-block;
+}
+.header-style-3 {
+	position: static;
+	padding: 20px 0 0 0;
+	background: url(/img/footer-bg.024f3778.jpg);
+}
+.header-style-3 .container-fluid {
+	padding: 0 15px;
+}
+.logo-3 {
+	width: 100%;
+	text-align: center;
+	margin: 10px 0 0 0;
+}
+.home-3-head-social {
+	/* width: 100%; */
+	margin: 20px 0;
+}
+.header-style-3 .navbar {
+	width: 100%;
+}
+.navbar-inverse .navbar-toggle {
+	margin-bottom: 20px;
+}
+.header-style-3 #nav li {
+	float: none;
+	display: block;
+}
+.header-style-3 #nav li ul {
+	position: static;
+	width: 100%;
+}
+.welcome-style-3 {
+	padding: 40px 0;
+}
+.home-3 .welcome-style-3 h2 {
+	margin: 0 0 10px 0;
+}
+.welcome-style-3 span {
+	text-align: center;
+}
+.latest-book-style-3 h2 {
+	font-size: 23px;
+}
+#album-book-slider {
+	padding: 0 15px;
+}
+.latest-book-style-3 {
+	padding: 0 0 40px 0;
+}
+.home-3 .video-style-2 h2 {
+	font-size: 21px;
+	line-height: 33px;
+	margin: 0 0 20px 0;
+}
+.video-style-2 .holder {
+	padding: 40px 0;
+}
+.video-style-2 .holder strong.title {
+	font-size: 31px;
+	padding: 0 0 20px 0;
+}
+.event-style-1 {
+	padding: 40px 0 0 0;
+}
+.blog-style-3 {
+	padding: 40px 0;
+}
+.blog-style-3 .text-holder {
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+.blog-style-3 .post-box .inner-box {
+	width: 100%;
+}
+.blog-style-3 .post-box {
+	margin: 0 0 30px 0;
+}
+.newsletter-style-3 {
+	padding: 0 0 0 0;
+}
+.newsletter-style-3 .text-box span img {
+	width: 100%;
+}
+.newsletter-style-3 strong.title {
+	padding: 0;
+	margin: 0;
+}
+.newsletter-style-3 .hold {
+	margin: 20px 0 0 0;
+	width: 100%;
+}
+.newsletter-style-3 form {
+	padding: 0;
+	margin: 30px 0 0 0;
+}
+.footer-style-3 {
+	/* padding: 0 0 40px 0; */
+	background: url(/img/footer-bg.024f3778.jpg);
+}
+.footer-style-3 .footer-box {
+	margin-bottom: 20px;
+}
+.blog-style-3 .post-box .inner-box img {
+	width: 100%;
+}
+.event-style-1 h2 {
+	font-size: 26px;
+	line-height: 35px;
+	margin: 0 0 20px 0;
+}
+.event-style-1 .box {
+	margin: 0 0 30px 0;
+}
+.ticket li {
+	padding: 20px 0;
+}
+.header-style-3 #nav li.active a::before {
+	bottom: -4px;
+}
+.home-3-head-social ul {
+	display: block;
+	text-align: center;
+}
+.home-3-head-social ul li {
+	float: none;
+	display: inline-block;
+	padding: 0 20px;
+}
+.blog-style-2 .post-box {
+	width: 100%;
+	margin: 0 0 20px 0;
+}
+a.logo-2 {
+	position: static;
+	width: 100%;
+	display: block;
+	text-align: center;
+	margin: 30px 0;
+	float: left;
+}
+a.logo-2 img {
+	margin: 0 auto;
+}
+.home-2-head-social {
+	margin: 0;
+	width: 100%;
+}
+.home-2-head-social ul {
+	display: block;
+	text-align: center;
+}
+.home-2-head-social ul li {
+	display: inline-block;
+	float: none;
+}
+.banner-style-2 .caption {
+	top: 20px;
+}
+.banner-style-2 span.text-img {
+	display: none;
+}
+#banner .banner-style-2 h1 {
+	font-size: 22px;
+	line-height: 22px;
+	margin: 0 0 10px 0;
+}
+#banner .banner-style-2 strong.title {
+	letter-spacing: 16px;
+	padding: 0 0 5px 0;
+	font-size: 16px;
+}
+#banner .banner-style-2 a.btn-join {
+	width: 50px;
+	height: 50px;
+	font-size: 12px;
+	line-height: 14px;
+	padding: 12px 0 0 0;
+}
+.welcome-style-2 {
+	padding: 40px 0;
+}
+.welcome-style-2 .round-thumb {
+	width: 200px;
+	height: 200px;
+	margin: 0 0 15px 0;
+}
+.welcome-style-2 .text-box h2 {
+	font-size: 30px;
+}
+.benefits-section .text-box {
+	padding: 30px 0 0 0;
+}
+.benefits-section .text-box .box-1 .text-col {
+	width: 100%;
+}
+.latest-book-style-2 {
+	padding: 40px 0;
+}
+.latest-book-style-2 h2 {
+	font-size: 27px;
+	margin: 0 0 10px 0;
+}
+.latest-book-style-2 .book-box {
+	width: 100%;
+}
+.latest-book-style-2 .book-box .text-col {
+	padding: 30px 0;
+	width: 100%;
+}
+.latest-book-style-2 h3 {
+	margin: 0 0 20px 0;
+}
+.latest-book-style-2 .img-box {
+	margin: 0;
+	width: 100%;
+}
+.latest-book-style-2 .owl-carousel .owl-stage-outer {
+	padding: 0;
+}
+.video-section .text-box {
+	width: 100%;
+	padding: 0 0 0 0;
+}
+.video-section .container-fluid {
+	padding: 0 15px;
+}
+.video-section .text-box h2 {
+	font-size: 25px;
+}
+.video-box {
+	margin: 30px 0 0 0;
+	height: 300px;
+	background-size: cover;
+}
+.video-box .modal-dialog {
+	width: 100%;
+	margin: 0;
+	padding: 0 20px;
+}
+.testimonial-style-2 {
+	padding: 40px 0;
+}
+.testimonial-style-2 h2 {
+	font-size: 28px;
+}
+.testimonial-style-2 .holder {
+	padding: 0;
+}
+.testimonial-style-2 .frame {
+	margin: 0 0 20px 0;
+}
+.testimonial-style-2 .text-box {
+	float: left;
+	width: 100%;
+}
+.testimonial-style-2 .text-box .fa {
+	padding: 0 0 20px 0;
+}
+.newsletter-style-1 {
+	background-size: cover;
+}
+.newsletter-style-1 h2 {
+	font-size: 32px;
+}
+.newsletter-style-1 strong.title {
+	font-size: 20px;
+}
+.newsletter-style-1 .right-box {
+	width: 100%;
+}
+.newsletter-style-1 form input[type="text"] {
+	width: 100%;
+}
+.newsletter-style-1 form input[type="text"] {
+	font-size: 16px;
+}
+.blog-style-2 {
+	padding: 40px 0;
+}
+.blog-style-2 h2 {
+	font-size: 28px;
+	margin: 0 0 20px 0;
+}
+.footer-style-2 .footer-box {
+	margin-bottom: 20px;
+}
+.footer-style-2 .footer-box .footer-logo {
+	width: 100%;
+	text-align: center;
+}
+.copyrights-row {
+	margin: 0;
+}
+.copyrights-row strong.copy {
+	width: 100%;
+	text-align: center;
+}
+.copyrights-row .footer-social-style-1 {
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+.footer-social-style-1 ul {
+	display: block;
+	text-align: center;
+}
+.tl_side-navigation {
+	margin-top: 20px;
+}
+.header-style-1 {
+	position: static;
+}
+.call-action-box {
+	width: 100%;
+}
+a.logo-1 {
+	width: 100%;
+	text-align: center;
+	margin: 0 0 20px 0;
+}
+.header-style-1 .right-col {
+	width: 100%;
+	position: static;
+}
+.header-style-1 {
+	height: auto;
+}
+.search-holder, .shop-box, .banner-style-1 .caption {
+	display: none;
+}
+.navbar-inverse .navbar-toggle {
+	width: 100%;
+	margin: 0 0 30px 0;
+}
+.header-style-1 .navbar {
+	width: 100%;
+}
+.navbar-toggle .icon-bar {
+	margin: 4px auto 0;
+}
+.header-style-1 #nav li {
+	float: none;
+	display: block;
+	padding: 15px 0;
+}
+.header-style-1 #nav li ul {
+	position: static;
+	width: 100%;
+}
+.header-style-1 #nav {
+	padding: 0;
+}
+.welcome-style-1 .text-box {
+	padding: 0;
+	margin-top: 10px;
+}
+body h2 {
+	font-size: 42px;
+}
+.welcome-style-1 .text-box .space-box {
+	padding: 0;
+	margin-bottom: 25px;
+}
+.welcome-style-1 {
+	margin-bottom: 30px;
+}
+.latest-book-section {
+	padding: 40px 0;
+}
+.latest-book-section .heading-left-style-1 {
+	margin: 0;
+}
+.latest-book-section .owl-carousel .owl-stage-outer {
+	padding: 0;
+}
+.latest-book-section .book-box {
+	width: 100%;
+	padding: 0 15px 50px 15px;
+}
+.latest-book-section .img-box {
+	width: 100%;
+}
+.blog-style-1 .heading-left-style-1 a.btn-style-1 {
+	margin: 0;
+}
+.blog-style-1-box .text-box h3 {
+	font-size: 18px;
+}
+.blog-style-1-box {
+	margin: 0;
+}
+.blog-style-1-box .text-box {
+	padding: 25px 0 0 0;
+}
+.blog-style-1-box .thumb {
+	margin: 20px 0 0 0;
+}
+.call-action-style-1 {
+	padding: 40px 0 10px 0;
+}
+.call-action-box {
+	margin-bottom: 30px;
+}
+.testimonials-style-1 {
+	padding: 40px 0;
+}
+.testimonials-style-1 .testi-thumb {
+	width: 100%;
+	margin: 20px 0 0 0;
+}
+.gallery-style-1 {
+	padding: 40px 0;
+}
+.gallery-style-1 .heading-left-style-1 {
+	margin: 0;
+}
+.gallery-style-1 a.btn-style-1 {
+	margin: 20px 0 0 0;
+}
+.home-blog-style-1 .heading-left-style-1 {
+	margin: 0 0 15px 0;
+}
+.home-blog-style-1 .text-box {
+	margin-bottom: 20px;
+}
+.home-blog-style-1 {
+	padding: 0 0 20px 0;
+}
+.footer-style-1 {
+	padding: 40px 0;
+}
+.footer-logo {
+	margin: 0 0 30px 0;
+}
+.footer-menu {
+	margin: 30px 0 0 0;
+}
+.footer-box address {
+	margin: 20px 0 0 0;
+}
+.instagram {
+	margin: 20px 0 0 0;
+}
+.gallery-style-1 .owl-next {
+	right: 12px;
+}
+.gallery-style-1 .owl-prev {
+	left: 12px;
+}
+#inner-banner h1 {
+    float: none !important;
+}
+}
+
+
+
+/*===========================================================================*/
+						/*768px And 992px CSS*/
+/*===========================================================================*/
+@media (min-width: 768px) and (max-width: 992px) {
+a.logo-1 {
+	width: 100%;
+	text-align: center;
+}
+.header-style-4 #nav{
+	padding:20px 0 0 0;
+}
+#inner-banner.inner-bg-3{
+	background-size:cover;
+}
+.single-author .welcome-style-1{
+	padding:0;
+	margin:0;
+}
+.accordion_cp{
+	font-size:13px;
+}
+.features-section .box{
+	margin-bottom:20px;
+}
+.features-section{
+	padding:50px 0 30px 0;
+}
+.musician-welcome .frame{
+	float:left;
+	width:100%;
+}
+.shop-section .frame img, .musician-welcome .frame img{
+	width:100%;
+}
+.sidebar-box-2 .ui-rangeslider .ui-rangeslider-sliders{
+	margin:160px 0 0 0;
+}
+.music-experience .left-box, .music-experience .right-box{
+	width:325px;
+}
+.music-experience .left-box:before, .music-experience .left-box:after, .music-experience .right-box:before, .music-experience .right-box:after{
+	display:none;
+}
+.music-experience ul{
+	margin-bottom:40px;
+}
+.what-we-do-section{
+	padding:60px 0;
+}
+.client-section .text-box{
+	margin-bottom:40px;
+}
+.progress-box-2{
+	margin:0 30px 15px 30px;
+}
+.sidebar-filter{
+	height:300px;
+}
+.sidebar-box-2 input.ui-slider-input{
+	width:100%;
+	margin:0 0 15px 0;
+}
+.ui-rangeslider .ui-slider-input.ui-rangeslider-last{
+	float:left !important;
+}
+.inner-bg-5 h1{
+	margin-top:50px;
+}
+.shop-section{
+	padding:50px 0 20px 0;
+}
+.gallery-section{
+	padding:50px 15px 20px 15px;
+	margin:0;
+}
+.faq-section{
+	padding:60px 0;
+}
+.comming-soon-1{
+	background-size:cover;
+	height:100%;
+	padding:300px 0;
+}
+.error-page{
+	padding:50px 0;
+}
+.comming-soon-2{
+	height:auto;
+	background-size:cover;
+	padding:300px 0;
+}
+.yoga-classes{
+	padding:40px 0;
+}
+body .home-4 .yoga-classes h2{
+	margin:0 0 20px 0;
+}
+.classes-call-action-section .space-box{
+	padding:0;
+}
+.yoga-classes .box .text-box{
+	padding:25px 15px;
+}
+body .home-4 .yoga-classes h3{
+	font-size:20px;
+}
+.yoga-classes .btn-row{
+	margin:10px 0 0 0;
+}
+body .home-4 .timetable-section h2{
+	margin:0 0 30px 0;
+}
+.classes-detail{
+	padding:40px 0 0 0;
+}
+body .home-4 .classes-detail h2{
+	margin:0 0 30px 0;
+}
+.classes-detail .frame .caption{
+	top:50px;
+}
+.pagination-box{
+	margin-bottom:40px;
+}
+.blog-section{
+	padding:40px 0 0 0;
+}
+.blog-section .post-box .frame img{
+	width:100%;
+}
+.text-widget img{
+	width:100%;
+}
+.tag-widget a{
+	padding-bottom:10px;
+}
+strong.inner-logo{
+	margin:25px 0 0 0;
+}
+#inner-banner {
+	margin:0;
+}
+.about-section .welcome-style-1{
+	padding:0;
+	margin:0;
+}
+.about-section .welcome-style-1 .thumb{
+	margin:40px 0 0 0;
+}
+.video-section-2{
+	margin:40px 0 0 0;
+}
+.video-section-2 a.btn-play{
+	clear:both;
+}
+.video-section-2 strong.logo{
+	margin:0 0 10px 0;
+}
+.best-selling{
+	padding:40px 0 20px 0;
+}
+#inner-banner h1{
+	margin-bottom:30px;
+}
+.header-style-4 .right-col {
+	width: 100%;
+}
+.banner-style-4 .caption {
+	display: none;
+}
+.latest-book-style-4 .owl-theme .owl-controls {
+	margin: 30px 0 0 0;
+}
+.timetable-section {
+	padding: 40px 0;
+}
+.header-style-3 #nav li a {
+	font-size: 14px;
+	line-height: 14px;
+	padding: 0 27px;
+}
+.header-style-3 #nav {
+	background: rgba(0,0,0,0.5);
+	margin: 0;
+	padding: 30px 0 0 0;
+}
+.timetable-box .head strong.time, .timetable-box .head strong.day {
+	width: 90px;
+	font-size: 14px;
+	line-height: 14px;
+}
+.timetable-section ul li strong.time, .timetable-section ul li strong.empty, .timetable-section ul li strong.title-color, .timetable-section ul li strong.title {
+	width: 89px;
+	height: 100px;
+	padding: 30px 0 0 0;
+	font-size: 14px;
+}
+.footer-style-4 {
+	padding: 50px 0;
+}
+.header-style-3 #nav li {
+	padding: 0 0 20px 0;
+}
+.welcome-style-3 {
+	padding: 40px 0;
+}
+#album-book-slider {
+	padding: 0 20px;
+}
+.latest-book-style-3 {
+	padding: 0 0 50px 0;
+}
+.video-style-2 .holder {
+	background-size: cover;
+	padding: 50px 0;
+}
+.video-style-2 .holder strong.title {
+	padding: 0 0 50px 0;
+}
+.event-style-1 {
+	padding: 40px 0;
+}
+.blog-style-3 {
+	padding: 50px 0;
+}
+.newsletter-style-3 {
+	padding: 0;
+}
+.newsletter-style-3 form {
+	padding: 40px 0 0 0;
+}
+.footer-style-3 {
+	/* padding: 0 0 40px 0; */
+	background: url(/img/footer-bg.024f3778.jpg);
+}
+.footer-style-3 .footer-box {
+	margin: 0 0 20px 0;
+}
+.footer-style-2 .footer-box {
+	min-height: 200px;
+}
+.banner-style-2 .caption {
+	top: 160px;
+}
+.tl_side-navigation {
+	margin-top: 30px;
+}
+.welcome-style-2 .round-thumb {
+	width: 220px;
+	height: 220px;
+	margin: 0;
+}
+.partners-section ul li{
+	margin:0 10px;
+	width:160px;
+}
+.partners-section ul li img{
+	width:100%;
+}
+.partners-section ul li:first-child{
+	margin:0 10px;
+}
+.welcome-style-2 .text-box h2 {
+	font-size: 38px;
+}
+.welcome-style-2 {
+	padding: 40px 0;
+}
+.benefits-section .text-box {
+	width: 100%;
+	padding: 40px 20px;
+}
+.latest-book-style-2 .book-box {
+	width: 100%;
+}
+.latest-book-style-2 .img-box {
+	margin: 0;
+}
+.latest-book-style-2 .book-box .text-col {
+	padding: 50px 0 20px 0;
+}
+.video-section .text-box {
+	width: 100%;
+	padding: 0 20px 20px 20px;
+}
+.latest-book-style-2 {
+	padding: 40px 0 0 0;
+}
+.latest-book-style-2 .owl-carousel .owl-stage-outer {
+	padding: 0 0 20px 0;
+}
+.video-section {
+	margin: 30px 0 0 0;
+}
+.video-section .text-box h2 {
+	font-size: 26px;
+}
+.video-box .modal-dialog {
+	width: 100%;
+	padding: 0 30px;
+}
+.video-box {
+	height: 300px;
+	background-size: cover;
+}
+.testimonial-style-2 {
+	padding: 40px 0;
+}
+.testimonial-style-2 .holder {
+	padding: 0 20px;
+}
+.newsletter-style-1 {
+	background-size: cover;
+}
+.blog-style-2 .post-box .text-box {
+	padding: 20px 15px;
+}
+.blog-style-2 {
+	padding: 40px 0;
+}
+.footer-style-2 .footer-box .footer-logo {
+	width: 100%;
+	text-align: center;
+}
+.footer-box {
+	margin: 20px 0 0 0;
+}
+.banner-style-2 span.text-img {
+	display: none;
+}
+#banner .banner-style-2 h1 {
+	font-size: 48px;
+	line-height: 48px;
+	margin: 0 0 10px 0;
+}
+#banner .banner-style-2 strong.title {
+	padding: 0 0 10px 0;
+}
+.header-style-1 .right-col {
+	width: 100%;
+}
+.banner-style-1 .caption .inner-col {
+	width: 100%;
+}
+.banner-style-1 .caption .inner-col::before {
+	display: none;
+}
+.banner-style-1 .caption .inner-col span.banner-logo {
+	display: none;
+}
+.banner-style-1 .caption {
+	top: 180px;
+	height: auto;
+}
+.banner-style-1 .caption .inner-col h1 {
+	font-size: 52px;
+	line-height: 52px;
+}
+.banner-style-1 .caption .inner-col strong.title {
+	font-size: 26px;
+	padding: 0 0 10px 0;
+}
+.banner-social {
+	display: none;
+}
+.welcome-style-1 {
+	margin: 40px 0;
+}
+.latest-book-section {
+	padding: 40px 0;
+}
+.latest-book-section .book-box {
+	width: 365px;
+}
+.blog-style-1-box .text-box {
+	padding: 0;
+}
+.blog-style-1-box h3 {
+	font-size: 20px;
+}
+.blog-style-1 {
+	padding: 40px 0 0 0;
+}
+.call-action-box span {
+	font-size: 15px;
+}
+.testimonials-style-1 {
+	padding: 40px 0;
+}
+.testimonials-style-1 .text-col {
+	width: 62%;
+}
+.gallery-style-1 {
+	padding: 40px 0;
+}
+.gallery-style-1 .heading-left-style-1 {
+	margin: 0;
+}
+.gallery-style-1 .owl-next {
+	right: 20px;
+}
+.gallery-style-1 .owl-prev {
+	left: 20px;
+}
+.gallery-style-1 a.btn-style-1 {
+	margin: 30px 0 0 0;
+}
+body h2 {
+	font-size: 48px;
+}
+.home-blog-style-1 .heading-left-style-1 {
+	margin: 0;
+}
+.home-blog-style-1 {
+	padding: 0 0 30px 0;
+}
+.footer-style-1 {
+	padding: 40px 0;
+}
+.footer-box address, .instagram {
+	margin: 30px 0 0 0;
+}
+.blog-section .post-box .frame{
+	margin-bottom:20px;
+}
+}
+
+
+
+
+/*===========================================================================*/
+							/*1199px CSS*/
+/*===========================================================================*/
+@media (min-width: 993px) and (max-width: 1199px) {
+.banner-style-1 .caption {
+	top: 180px;
+	height: auto;
+}
+.banner-style-1 .caption .inner-col span.banner-logo {
+	margin: 0;
+}
+.banner-style-1 .caption .inner-col h1 {
+	margin: 0 0 10px 0;
+}
+.banner-style-1 .caption .inner-col strong.title {
+	padding: 0 0 10px 0;
+}
+.banner-social {
+	display: none;
+}
+.welcome-style-1 {
+	padding: 40px 0;
+}
+.latest-book-section {
+	padding: 40px 0;
+}
+.latest-book-section .book-box {
+	width: 500px;
+}
+.latest-book-section .img-box {
+	width: 226px;
+}
+.latest-book-section .book-box .text-col {
+	width: 230px;
+}
+.latest-book-section .heading-left-style-1 {
+	margin: 0;
+}
+.blog-style-1 {
+	padding: 40px 0 0 0;
+}
+.blog-style-1-box .text-box {
+	padding: 0;
+}
+.testimonials-style-1 {
+	padding: 40px 0;
+}
+.testimonials-style-1 .text-col {
+	width: 676px;
+}
+.gallery-style-1 {
+	padding: 40px 80px;
+}
+.banner-style-2 .caption {
+	top: 160px;
+}
+.banner-style-2 span.text-img {
+	margin: 0 0 15px 0;
+}
+#banner .banner-style-2 h1 {
+	margin: 0 0 15px 0;
+}
+#banner .banner-style-2 strong.title {
+	padding: 0 0 15px 0;
+}
+.welcome-style-2 .round-thumb {
+	width: 290px;
+	height: 290px;
+}
+.latest-book-style-2 .book-box {
+	width: 100%;
+}
+.latest-book-style-2 .img-box {
+	width: 270px;
+}
+.latest-book-style-2 h3 {
+	font-size: 31px;
+}
+.latest-book-style-2 .owl-carousel .owl-stage-outer {
+	padding: 70px 0 0 0;
+}
+.latest-book-style-2 {
+	padding: 40px 0;
+}
+.video-section .text-box {
+	width: 100%;
+}
+.testimonial-style-2 {
+	padding: 40px 0;
+}
+.newsletter-style-1 {
+	background-size: cover;
+}
+.blog-style-2 {
+	padding: 40px 0;
+}
+.footer-style-2 .footer-box .footer-logo img {
+	width: 100%;
+}
+#album-book-slider {
+	padding: 0 20px;
+}
+.video-style-2 .holder {
+	padding: 60px 0;
+}
+.video-style-2 .holder strong.title {
+	padding: 0 0 40px 0;
+}
+.event-style-1 {
+	padding: 40px 0 0 0;
+}
+.blog-style-3 {
+	padding: 50px 0;
+}
+.newsletter-style-3 {
+	padding: 40px 0 0 0;
+}
+.newsletter-style-3 .text-box span img {
+	width: 100%;
+}
+.banner-style-4 .caption {
+	top: 180px;
+}
+.banner-style-4 .caption strong.title {
+	font-size: 45px;
+	line-height: 45px;
+}
+.banner-style-4 .caption h1 {
+	font-size: 70px;
+}
+.yoga-section {
+	padding: 40px 0;
+}
+.latest-book-style-4 .owl-theme .owl-controls {
+	margin: 25px 0 0 0;
+}
+.timetable-box .head strong.time, .timetable-box .head strong.day {
+	width: 110px;
+	font-size: 16px;
+}
+.timetable-section ul li strong.time, .timetable-section ul li strong.empty, .timetable-section ul li strong.title-color, .timetable-section ul li strong.title {
+	width: 110px;
+}
+#inner-banner.inner-bg-2{
+	margin:0;
+}
+.video-section-2{
+	margin:0;
+}
+.best-selling{
+	padding:50px 0 20px 0;
+}
+.about-section .call-action-style-1{
+	margin-bottom:40px;
+}
+.home-blog-style-1{
+	padding-bottom:40px;
+}
+.instagram ul li{
+	width:65px;
+}
+.instagram ul li img{
+	width:100%;
+}
+.footer-style-1{
+	padding:50px 0;
+}
+.blog-section{
+	padding:40px 0 0 0;
+}
+.text-widget img{
+	width:100%;
+}
+.pagination-box{
+	margin-bottom:40px;
+}
+.blog-section .post-box .frame{
+	margin-bottom:20px;
+}
+.classes-detail{
+	padding:40px 0 0 0;
+}
+body .home-4 .classes-detail h2{
+	margin:0 0 30px 0;
+}
+.detail-gallery{
+	margin-bottom:40px;
+}
+.yoga-classes{
+	padding:40px 0;
+}
+body .home-4 .yoga-classes h2{
+	margin:0 0 20px 0;
+}
+.yoga-classes .btn-row{
+	margin:10px 0 0 0;
+}
+.classes-call-action-section{
+	margin-bottom:40px;
+}
+.error-page{
+	padding:50px 0;
+}
+.faq-section{
+	padding:60px 0;
+}
+.gallery-section{
+	padding:50px 15px 20px 15px;
+	margin:0;
+}
+.shop-section{
+	padding:50px 0 20px 0;
+}
+.sidebar-box-2 input.ui-slider-input{
+	width:100%;
+	margin-bottom:15px;
+}
+.sidebar-box-2 .ui-rangeslider .ui-rangeslider-sliders{
+	margin:170px 0 0 0;
+}
+.sidebar-filter{
+	height:305px;
+}
+.pagination-style-2{
+	margin-bottom:50px;
+}
+.ui-rangeslider .ui-slider-input.ui-rangeslider-last{
+	float:left !important;
+}
+.musician-welcome .frame img{
+	width:100%;
+}
+.music-experience .left-box:before, .music-experience .left-box:after, .music-experience .right-box:before, .music-experience .right-box:after{
+	display:none;
+}
+.call-action{
+	background-size:cover;
+}
+.partners-section ul li{
+	width:215px;
+	margin:0 10px;
+}
+.partners-section ul li img{
+	width:100%;
+}
+.partners-section ul li:first-child{
+	margin:0 10px;
+}
+}
